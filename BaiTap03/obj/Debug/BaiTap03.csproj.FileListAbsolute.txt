@@ -1,0 +1,7 @@
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\bin\Debug\BaiTap03.exe.config
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\bin\Debug\BaiTap03.exe
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\bin\Debug\BaiTap03.pdb
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\obj\Debug\BaiTap03.csproj.AssemblyReference.cache
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\obj\Debug\BaiTap03.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\obj\Debug\BaiTap03.exe
+C:\Users\User-PC\Documents\Bài tập C#\BaiTap\BaiTap01\BaiTap03\obj\Debug\BaiTap03.pdb
